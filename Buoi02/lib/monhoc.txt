@@ -1,0 +1,5 @@
+LT#MH01#Lap Trinh Dart#3#8.5#7.0
+TH#MH02#Thuc Hanh Dart#2#9.0#8.5#8.0
+DA#MH03#Do An Co So#3#8.0#8.5
+LT#MH04#Cấu Trúc Dữ Liệu#4#7.5#6.5
+TH#MH05#Thuc Hanh Mang#1#7.0#8.0#7.5
